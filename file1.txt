@@ -1,1 +1,2 @@
 thisismy
+this is rewriting file1
